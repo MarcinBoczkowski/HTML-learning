@@ -1,0 +1,43 @@
+.sec1 {
+    color: red;
+    text-align: center;
+
+}
+.moja {
+    font-size: 70px;
+}
+.size {
+    width: 200px;
+}
+.listaKotow {
+    text-align: center;    
+}
+ol {
+    display: inline-block;
+}
+.link {
+    text-align: center;
+    color: red
+}
+.rozmiar {
+    width: 35px;
+    height: 35px;
+    margin-left: 70px
+}
+.czcionka {
+    font-size: 15px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 9px;
+   
+}
+.contener {
+    background-color: blue
+}
+.przesuniecie {
+    font-size: 15px;
+    color: white;
+    margin-left: 40px;
+    margin-top: 9px;
+    font-family: 'Margarine', cursive;
+}
